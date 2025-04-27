@@ -28,17 +28,7 @@ This application allows you to upload files from various sources (local machine,
 - For a dedicated chat interface, use the standalone chat application with **[/chat-only](/chat-only) route.** 
 
 ### **LLMs Supported**
-1. OpenAI
-2. Gemini
-3. Diffbot
-4. Azure OpenAI(dev deployed version)
-5. Anthropic(dev deployed version)
-6. Fireworks(dev deployed version)
-7. Groq(dev deployed version)
-8. Amazon Bedrock(dev deployed version)
-9. Ollama(dev deployed version)
-10. Deepseek(dev deployed version)
-11. Other OpenAI Compatible baseurl models(dev deployed version)
+1. Ollama
     
 ---
 
